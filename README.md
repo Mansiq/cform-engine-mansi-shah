@@ -7,13 +7,13 @@
 
 ## 🎯 Try the Live Application
 
-**🔗Launch cform-engine-nishant - [https://cform-engine-mansi-shah.streamlit.app/](https://cform-engine-mansi-shah.streamlit.app/)**
+**🔗Launch cform-engine-mansi-shah - [https://cform-engine-mansi-shah.streamlit.app/](https://cform-engine-mansi-shah.streamlit.app/)**
 
-![Dashboard Preview](https://drive.google.com/uc?export=view&id=1ZBkSzgeAxoU_YHeJUa3Xa1t_fV1tm8jH)
+![Dashboard Preview](https://drive.google.com/uc?export=view&id=1VAdilJEFcEaOlNG7Yr8jX-EZTTQQuFmr)
 
 ## 🌟 Overview
 
-**cform-engine-nishant** is a sophisticated, full-stack feedback collection platform that enables administrators to create, distribute, and analyze custom feedback forms with real-time response tracking. Built with modern technologies and featuring a clean, responsive interface, this platform streamlines the entire feedback collection process from creation to analysis.
+**cform-engine** is a sophisticated, full-stack feedback collection platform that enables administrators to create, distribute, and analyze custom feedback forms with real-time response tracking. Built with modern technologies and featuring a clean, responsive interface, this platform streamlines the entire feedback collection process from creation to analysis.
 
 ### ✨ Key Highlights
 
@@ -363,3 +363,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 *Built with ❤️ by Mansi Shah using Streamlit and Supabase*
+
