@@ -442,7 +442,7 @@ def show_auth_page():
     st.markdown("""
     <div style="text-align:center; font-size:23px; padding:0.5rem 1rem;">
         <strong>Mansi Shah</strong> &nbsp; | &nbsp;
-        📧 <a href="mailto:mansi9865@gmail.com" target="_blank">mansi9865@gmail.com</a> &nbsp; | &nbsp;
+        📧 <a href="mailto:mansishah9865@gmail.com" target="_blank">mansishah9865@gmail.com</a> &nbsp; | &nbsp;
         📱 <a href="tel:+919328348836" target="_blank">+91-9328348836</a> &nbsp; | &nbsp;
         💼 <a href="https://www.linkedin.com/in/mansi-shah-b27316250/" target="_blank">LinkedIn</a> &nbsp; | &nbsp;
         🐙 <a href="https://github.com/Mansiq" target="_blank">GitHub</a> &nbsp; | &nbsp;
@@ -495,7 +495,7 @@ def show_dashboard():
     st.markdown("""
     <div style="text-align:center; font-size:23px; padding:0.5rem 1rem;">
         <strong>Mansi Shah</strong> &nbsp; | &nbsp;
-        📧 <a href="mailto:mansi9865@gmail.com" target="_blank">mansi9865@gmail.com</a> &nbsp; | &nbsp;
+        📧 <a href="mailto:mansishah9865@gmail.com" target="_blank">mansishah9865@gmail.com</a> &nbsp; | &nbsp;
         📱 <a href="tel:+919328348836" target="_blank">+91-9328348836</a> &nbsp; | &nbsp;
         💼 <a href="https://www.linkedin.com/in/mansi-shah-b27316250/" target="_blank">LinkedIn</a> &nbsp; | &nbsp;
         🐙 <a href="https://github.com/Mansiq" target="_blank">GitHub</a> &nbsp; | &nbsp;
@@ -719,7 +719,7 @@ def show_public_form(form_id: str):
     st.markdown("""
     <div style="text-align:center; font-size:23px; padding:0.5rem 1rem;">
         <strong>Mansi Shah</strong> &nbsp; | &nbsp;
-        📧 <a href="mailto:mansi9865@gmail.com" target="_blank">mansi9865@gmail.com</a> &nbsp; | &nbsp;
+        📧 <a href="mailto:mansishah9865@gmail.com" target="_blank">mansishah9865@gmail.com</a> &nbsp; | &nbsp;
         📱 <a href="tel:+919328348836" target="_blank">+91-9328348836</a> &nbsp; | &nbsp;
         💼 <a href="https://www.linkedin.com/in/mansi-shah-b27316250/" target="_blank">LinkedIn</a> &nbsp; | &nbsp;
         🐙 <a href="https://github.com/Mansiq" target="_blank">GitHub</a> &nbsp; | &nbsp;
@@ -727,4 +727,5 @@ def show_public_form(form_id: str):
     """, unsafe_allow_html=True)
 
 if __name__ == "__main__":
+
     main()
