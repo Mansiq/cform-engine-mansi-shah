@@ -345,7 +345,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Nishant**
+**Mansi**
 - 📧 Email: [mansishah9865@gmail.com](mailto:mansishah9865@gmail.com)
 - 📱 Phone: [+91-9328348836](tel:+919328348836)
 - 💼 LinkedIn: [https://www.linkedin.com/in/mansi-shah-b27316250/](https://www.linkedin.com/in/mansi-shah-b27316250/)
